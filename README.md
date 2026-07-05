@@ -1,3 +1,4 @@
+
 # Gestia AI Business Assistant
 
 
@@ -257,3 +258,7 @@ El proyecto está diseñado para integrarse con el backend de Gestia (Spring Boo
 | Formato de respuesta | Respuesta directa → Contexto → Recomendación |
 | Stubs vs. API real | Stubs con contratos idénticos a la API real |
 | Visual Analytics | Neutral chart model independent from UI frameworks |
+=======
+# gestia-ai-business-assistant
+AI Business Copilot built with Google ADK 2.0. Workflow-based multi-agent architecture for business intelligence.
+
