@@ -1,0 +1,46 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "sales_monthly_summary",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "¿Cuánto vendí este mes?"}]
+      }
+    },
+    {
+      "eval_case_id": "products_low_stock",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "¿Qué productos tienen stock bajo?"}]
+      }
+    },
+    {
+      "eval_case_id": "customers_top_buyers",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "¿Quiénes son mis mejores clientes este mes?"}]
+      }
+    },
+    {
+      "eval_case_id": "analytics_gross_margin",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "¿Cómo está mi margen bruto este mes comparado con el anterior?"}]
+      }
+    },
+    {
+      "eval_case_id": "insights_growth_strategy",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "¿Qué debería mejorar para hacer crecer mi negocio?"}]
+      }
+    },
+    {
+      "eval_case_id": "out_of_scope_delete_request",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Elimina las ventas del mes pasado del sistema."}]
+      }
+    }
+  ]
+}
